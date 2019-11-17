@@ -1,0 +1,144 @@
+##########################################################
+           Sistema ADN-X (v. 14.11 estable)
+**********************************************************
+
+Modo grafico iniciado correctamente.
+Monitor de video iniciado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Generador de numeros aleatorios iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Nombre:  aaa
+Nombre:  bbb
+Nombre:  ccc
+Nombre:  ddd
+Nombre:  eee
+Nombre:  agi
+Nombre:  joa
+Nombre:  may
+Nombre:  jhh
+Nombre:  piu
+Nombre:  kia
+Nombre:  sar
+Nombre:  iri
+Nombre:  tai
+Nombre:  oso
+Nombre:  tia
+Nombre:  yiu
+Nombre:  you
+Nombre:  kar
+Nombre:  toi
+Nombre:  kai
+Nombre:  uia
+Nombre:  raf
+Nombre:  mar
+Nombre:  tot
+Nombre:  iai
+Nombre:  oki
+Nombre:  rai
+Nombre:  kar
+Nombre:  lia
+Nombre:  fao
+Nombre:  dic
+Nombre:  gat
+Nombre:  hiu
+Nombre:  ioo
+Nombre:  run
+Nombre:  kao
+Nombre:  dibu
+Nombre:  mai
+Nombre:  tira
+Nombre:  vai
+Nombre:  dan
+Nombre:  dia
+Nombre:  por
+Nombre:  joi
+Nombre:  ooo
+Nombre:  tera
+Nombre:  qui
+Nombre:  tyr
+Nombre:  kiu
+Nombre:  emi
+Nombre:  uia
+Nombre:  tir
+Nombre:  emer
+Nombre:  roi
+Nombre:  mai
+Nombre:  dona
+Nombre:  yayo
+Nombre:  gato
+Nombre:  soni
+Nombre:  sali
+Nombre:  kria
+Nombre:  ria
+Nombre:  mia
+Nombre:  roi
+Nombre:  joi
+Nombre:  poli
+Nombre:  tom
+Nombre:  son
+Nombre:  fao
+Nombre:  fio
+Nombre:  mariano
+Nombre:  luis
+Nombre:  luis
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+Sistema de audio iniciado correctamente.
+Sistema de audio finalizado correctamente.
+
+**********************************************************
+       El proyecto ADN-X ha finalizado correctamente      
+##########################################################
+El texto FONTS\FreeMono.ttf se cerro correctamente.
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+El texto FONTS\FreeMono.ttf se cerro correctamente.
+Monitor de video cerrado correctamente.
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+El texto dìv se cerro correctamente.
+El texto FONTS\FreeMono.ttf se cerro correctamente.
+El texto FONTS\FreeMono.ttf se cerro correctamente.
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+El texto FONTS\FreeMono.ttf se cerro correctamente.
+El texto FONTS\FreeMono.ttf se cerro correctamente.
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyo la imagen1 del sprite sin Nombre
+Se destruyo la imagen2 del sprite sin Nombre
+Se destruyo la imagen3 del sprite sin Nombre
+Se destruyo la imagen4 del sprite sin Nombre
+Se destruyo la imagen5 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Monitor de video cerrado correctamente.
+El modo grafico se cerro correctamente.

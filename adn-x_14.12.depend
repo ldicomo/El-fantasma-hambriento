@@ -1,0 +1,3584 @@
+# depslib dependency file v1.0
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\movimiento4\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493142 source:c:\users\usuario\desktop\prog_2\movimiento4\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540264468 c:\users\usuario\desktop\prog_2\movimiento4\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsGuia.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsJuego.h>
+
+1539444167 c:\users\usuario\desktop\prog_2\movimiento4\include\clspresentacion.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1539786983 c:\users\usuario\desktop\prog_2\movimiento4\include\clsfondo.h
+	<clsSprite.h>
+
+1539996924 c:\users\usuario\desktop\prog_2\movimiento4\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540270933 c:\users\usuario\desktop\prog_2\movimiento4\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540443573 c:\users\usuario\desktop\prog_2\movimiento4\include\clsarchivo.h
+	<cstring>
+
+1539444167 c:\users\usuario\desktop\prog_2\movimiento4\include\clsdespedida.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1540267030 c:\users\usuario\desktop\prog_2\movimiento4\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1539493958 c:\users\usuario\desktop\prog_2\movimiento4\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1539636199 c:\users\usuario\desktop\prog_2\movimiento4\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540443573 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1539493958 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clsburger.cpp
+	"clsBurger.h"
+
+1539967518 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1539786983 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clsfondo.cpp
+	"clsFondo.h"
+
+1539998300 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clsguia.cpp
+	"clsGuia.h"
+
+1540431932 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clsjuego.cpp
+	"clsJuego.h"
+
+1539996838 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clsmotor.cpp
+	"clsMotor.h"
+
+1539998908 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1539828552 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clspresentacion.cpp
+	"clsPresentacion.h"
+	"clsFondo.h"
+	<clsTimer.h>
+
+1540443835 source:c:\users\usuario\desktop\prog_2\movimiento4\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\administrador\desktop\pacman\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clserror.h
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\administrador\desktop\pacman\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\administrador\desktop\pacman\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\administrador\desktop\pacman\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493144 source:c:\users\administrador\desktop\pacman\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540264470 c:\users\administrador\desktop\pacman\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsGuia.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsJuego.h>
+
+1539444168 c:\users\administrador\desktop\pacman\include\clspresentacion.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1539786984 c:\users\administrador\desktop\pacman\include\clsfondo.h
+	<clsSprite.h>
+
+1539996926 c:\users\administrador\desktop\pacman\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540270934 c:\users\administrador\desktop\pacman\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540509800 c:\users\administrador\desktop\pacman\include\clsarchivo.h
+	<cstring>
+
+1539444168 c:\users\administrador\desktop\pacman\include\clsdespedida.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1540267032 c:\users\administrador\desktop\pacman\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1539493960 c:\users\administrador\desktop\pacman\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1539636200 c:\users\administrador\desktop\pacman\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540509800 source:c:\users\administrador\desktop\pacman\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1539493960 source:c:\users\administrador\desktop\pacman\src\clsburger.cpp
+	"clsBurger.h"
+
+1539967520 source:c:\users\administrador\desktop\pacman\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1539786984 source:c:\users\administrador\desktop\pacman\src\clsfondo.cpp
+	"clsFondo.h"
+
+1539998302 source:c:\users\administrador\desktop\pacman\src\clsguia.cpp
+	"clsGuia.h"
+
+1540431934 source:c:\users\administrador\desktop\pacman\src\clsjuego.cpp
+	"clsJuego.h"
+
+1539996840 source:c:\users\administrador\desktop\pacman\src\clsmotor.cpp
+	"clsMotor.h"
+
+1539998910 source:c:\users\administrador\desktop\pacman\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1539828554 source:c:\users\administrador\desktop\pacman\src\clspresentacion.cpp
+	"clsPresentacion.h"
+	"clsFondo.h"
+	<clsTimer.h>
+
+1540510203 source:c:\users\administrador\desktop\pacman\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\pacman2\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman2\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman2\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493144 source:c:\users\usuario\desktop\prog_2\pacman2\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540264470 c:\users\usuario\desktop\prog_2\pacman2\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsGuia.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsJuego.h>
+
+1539444168 c:\users\usuario\desktop\prog_2\pacman2\include\clspresentacion.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1539786984 c:\users\usuario\desktop\prog_2\pacman2\include\clsfondo.h
+	<clsSprite.h>
+
+1539996926 c:\users\usuario\desktop\prog_2\pacman2\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540785005 c:\users\usuario\desktop\prog_2\pacman2\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540509802 c:\users\usuario\desktop\prog_2\pacman2\include\clsarchivo.h
+	<cstring>
+
+1539444168 c:\users\usuario\desktop\prog_2\pacman2\include\clsdespedida.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1540837409 c:\users\usuario\desktop\prog_2\pacman2\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1540709263 c:\users\usuario\desktop\prog_2\pacman2\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1540733580 c:\users\usuario\desktop\prog_2\pacman2\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540509802 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1539967520 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1539786984 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsfondo.cpp
+	"clsFondo.h"
+
+1540739801 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsguia.cpp
+	"clsGuia.h"
+
+1540836807 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsjuego.cpp
+	"clsJuego.h"
+
+1539996840 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540703710 source:c:\users\usuario\desktop\prog_2\pacman2\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1539828554 source:c:\users\usuario\desktop\prog_2\pacman2\src\clspresentacion.cpp
+	"clsPresentacion.h"
+	"clsFondo.h"
+	<clsTimer.h>
+
+1540510204 source:c:\users\usuario\desktop\prog_2\pacman2\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1540709576 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsburger.cpp
+	"clsBurger.h"
+
+1540733213 source:c:\users\usuario\desktop\prog_2\pacman2\src\clscomidas.cpp
+	"clsComidas.h"
+
+1540706315 c:\users\usuario\desktop\prog_2\pacman2\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1540782724 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsboton.cpp
+	"clsBoton.h"
+
+1540782697 c:\users\usuario\desktop\prog_2\pacman2\include\clsboton.h
+	<clsSprite.h>
+
+1540783836 source:c:\users\usuario\desktop\prog_2\pacman2\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540783313 c:\users\usuario\desktop\prog_2\pacman2\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsBoton.h>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\pacman3\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman3\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman3\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493144 source:c:\users\usuario\desktop\prog_2\pacman3\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540875879 c:\users\usuario\desktop\prog_2\pacman3\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1539444168 c:\users\usuario\desktop\prog_2\pacman3\include\clspresentacion.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1539786984 c:\users\usuario\desktop\prog_2\pacman3\include\clsfondo.h
+	<clsSprite.h>
+
+1540873867 c:\users\usuario\desktop\prog_2\pacman3\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+
+1540839114 c:\users\usuario\desktop\prog_2\pacman3\include\clsboton.h
+	<clsSprite.h>
+
+1539996926 c:\users\usuario\desktop\prog_2\pacman3\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540785005 c:\users\usuario\desktop\prog_2\pacman3\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540509802 c:\users\usuario\desktop\prog_2\pacman3\include\clsarchivo.h
+	<cstring>
+
+1539444168 c:\users\usuario\desktop\prog_2\pacman3\include\clsdespedida.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsFondo.h>
+
+1540876619 c:\users\usuario\desktop\prog_2\pacman3\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1540706315 c:\users\usuario\desktop\prog_2\pacman3\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1540709263 c:\users\usuario\desktop\prog_2\pacman3\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1540733580 c:\users\usuario\desktop\prog_2\pacman3\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540509802 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1540839114 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsboton.cpp
+	"clsBoton.h"
+
+1540709576 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsburger.cpp
+	"clsBurger.h"
+
+1540733213 source:c:\users\usuario\desktop\prog_2\pacman3\src\clscomidas.cpp
+	"clsComidas.h"
+
+1539967520 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1539786984 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsfondo.cpp
+	"clsFondo.h"
+
+1540739801 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsguia.cpp
+	"clsGuia.h"
+
+1540876619 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsjuego.cpp
+	"clsJuego.h"
+
+1540875879 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540703710 source:c:\users\usuario\desktop\prog_2\pacman3\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1539828554 source:c:\users\usuario\desktop\prog_2\pacman3\src\clspresentacion.cpp
+	"clsPresentacion.h"
+	"clsFondo.h"
+	<clsTimer.h>
+
+1540510204 source:c:\users\usuario\desktop\prog_2\pacman3\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1540875594 source:c:\users\usuario\desktop\prog_2\pacman3\src\clsmotor.cpp
+	"clsMotor.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\pacman4\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman4\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman4\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493144 source:c:\users\usuario\desktop\prog_2\pacman4\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540875879 c:\users\usuario\desktop\prog_2\pacman4\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1540954103 c:\users\usuario\desktop\prog_2\pacman4\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+
+1540873867 c:\users\usuario\desktop\prog_2\pacman4\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+
+1540839114 c:\users\usuario\desktop\prog_2\pacman4\include\clsboton.h
+	<clsSprite.h>
+
+1539996926 c:\users\usuario\desktop\prog_2\pacman4\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540876619 c:\users\usuario\desktop\prog_2\pacman4\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1540785005 c:\users\usuario\desktop\prog_2\pacman4\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540509802 c:\users\usuario\desktop\prog_2\pacman4\include\clsarchivo.h
+	<cstring>
+
+1540706315 c:\users\usuario\desktop\prog_2\pacman4\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1540709263 c:\users\usuario\desktop\prog_2\pacman4\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1540733580 c:\users\usuario\desktop\prog_2\pacman4\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540959875 c:\users\usuario\desktop\prog_2\pacman4\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540509802 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1540839114 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsboton.cpp
+	"clsBoton.h"
+
+1540709576 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsburger.cpp
+	"clsBurger.h"
+
+1540733213 source:c:\users\usuario\desktop\prog_2\pacman4\src\clscomidas.cpp
+	"clsComidas.h"
+
+1540739801 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsguia.cpp
+	"clsGuia.h"
+
+1540876619 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsjuego.cpp
+	"clsJuego.h"
+
+1540878711 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540875594 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540703710 source:c:\users\usuario\desktop\prog_2\pacman4\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1540510204 source:c:\users\usuario\desktop\prog_2\pacman4\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1540932134 source:c:\users\usuario\desktop\prog_2\pacman4\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1540956299 source:c:\users\usuario\desktop\prog_2\pacman4\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\pacman5\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman5\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman5\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493144 source:c:\users\usuario\desktop\prog_2\pacman5\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540875879 c:\users\usuario\desktop\prog_2\pacman5\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1540954103 c:\users\usuario\desktop\prog_2\pacman5\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+
+1540873867 c:\users\usuario\desktop\prog_2\pacman5\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+
+1540839114 c:\users\usuario\desktop\prog_2\pacman5\include\clsboton.h
+	<clsSprite.h>
+
+1539996926 c:\users\usuario\desktop\prog_2\pacman5\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540999368 c:\users\usuario\desktop\prog_2\pacman5\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1540999802 c:\users\usuario\desktop\prog_2\pacman5\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540509802 c:\users\usuario\desktop\prog_2\pacman5\include\clsarchivo.h
+	<cstring>
+
+1540706315 c:\users\usuario\desktop\prog_2\pacman5\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1540709263 c:\users\usuario\desktop\prog_2\pacman5\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1541042563 c:\users\usuario\desktop\prog_2\pacman5\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540959875 c:\users\usuario\desktop\prog_2\pacman5\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540509802 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1540839114 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsboton.cpp
+	"clsBoton.h"
+
+1540709576 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsburger.cpp
+	"clsBurger.h"
+
+1540733213 source:c:\users\usuario\desktop\prog_2\pacman5\src\clscomidas.cpp
+	"clsComidas.h"
+
+1540960675 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1540739801 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsguia.cpp
+	"clsGuia.h"
+
+1541042998 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsjuego.cpp
+	"clsJuego.h"
+
+1540878711 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540875594 source:c:\users\usuario\desktop\prog_2\pacman5\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540956299 source:c:\users\usuario\desktop\prog_2\pacman5\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1540999802 source:c:\users\usuario\desktop\prog_2\pacman5\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1541042850 source:c:\users\usuario\desktop\prog_2\pacman5\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\administrador\desktop\pacman5\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clserror.h
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\administrador\desktop\pacman5\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\administrador\desktop\pacman5\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\administrador\desktop\pacman5\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\administrador\desktop\pacman5\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493144 source:c:\users\administrador\desktop\pacman5\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540875880 c:\users\administrador\desktop\pacman5\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1540954104 c:\users\administrador\desktop\pacman5\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+
+1540873868 c:\users\administrador\desktop\pacman5\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+
+1540839116 c:\users\administrador\desktop\pacman5\include\clsboton.h
+	<clsSprite.h>
+
+1539996926 c:\users\administrador\desktop\pacman5\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1541117457 c:\users\administrador\desktop\pacman5\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1540999804 c:\users\administrador\desktop\pacman5\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540509802 c:\users\administrador\desktop\pacman5\include\clsarchivo.h
+	<cstring>
+
+1540706316 c:\users\administrador\desktop\pacman5\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1541118567 c:\users\administrador\desktop\pacman5\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1541116725 c:\users\administrador\desktop\pacman5\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540959876 c:\users\administrador\desktop\pacman5\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540509802 source:c:\users\administrador\desktop\pacman5\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1540839116 source:c:\users\administrador\desktop\pacman5\src\clsboton.cpp
+	"clsBoton.h"
+
+1541118567 source:c:\users\administrador\desktop\pacman5\src\clsburger.cpp
+	"clsBurger.h"
+
+1540733214 source:c:\users\administrador\desktop\pacman5\src\clscomidas.cpp
+	"clsComidas.h"
+
+1540960676 source:c:\users\administrador\desktop\pacman5\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1540739802 source:c:\users\administrador\desktop\pacman5\src\clsguia.cpp
+	"clsGuia.h"
+
+1541118953 source:c:\users\administrador\desktop\pacman5\src\clsjuego.cpp
+	"clsJuego.h"
+
+1540878712 source:c:\users\administrador\desktop\pacman5\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540875596 source:c:\users\administrador\desktop\pacman5\src\clsmotor.cpp
+	"clsMotor.h"
+
+1540956300 source:c:\users\administrador\desktop\pacman5\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1541116087 source:c:\users\administrador\desktop\pacman5\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1541116688 source:c:\users\administrador\desktop\pacman5\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\pacman7\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacman7\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacman7\adn-x\clstimer.h
+	"clsEvent.h"
+
+1539493144 source:c:\users\usuario\desktop\prog_2\pacman7\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1540875880 c:\users\usuario\desktop\prog_2\pacman7\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1540954104 c:\users\usuario\desktop\prog_2\pacman7\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+
+1540873868 c:\users\usuario\desktop\prog_2\pacman7\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+
+1540839116 c:\users\usuario\desktop\prog_2\pacman7\include\clsboton.h
+	<clsSprite.h>
+
+1539996926 c:\users\usuario\desktop\prog_2\pacman7\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1541476569 c:\users\usuario\desktop\prog_2\pacman7\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1540999804 c:\users\usuario\desktop\prog_2\pacman7\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1540509802 c:\users\usuario\desktop\prog_2\pacman7\include\clsarchivo.h
+	<cstring>
+
+1540706316 c:\users\usuario\desktop\prog_2\pacman7\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1541137477 c:\users\usuario\desktop\prog_2\pacman7\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1541116726 c:\users\usuario\desktop\prog_2\pacman7\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1540959876 c:\users\usuario\desktop\prog_2\pacman7\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+
+1540509802 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstdio>
+
+1540839116 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsboton.cpp
+	"clsBoton.h"
+
+1541137477 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsburger.cpp
+	"clsBurger.h"
+
+1540733214 source:c:\users\usuario\desktop\prog_2\pacman7\src\clscomidas.cpp
+	"clsComidas.h"
+
+1540960676 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1540739802 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsguia.cpp
+	"clsGuia.h"
+
+1541137477 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsjuego.cpp
+	"clsJuego.h"
+
+1540878712 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsmenu.cpp
+	"clsMenu.h"
+
+1540875596 source:c:\users\usuario\desktop\prog_2\pacman7\src\clsmotor.cpp
+	"clsMotor.h"
+
+1541137477 source:c:\users\usuario\desktop\prog_2\pacman7\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1540956300 source:c:\users\usuario\desktop\prog_2\pacman7\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1541116088 source:c:\users\usuario\desktop\prog_2\pacman7\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\pacmancomeburger\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542080700 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542080700 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1542135048 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542140452 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080700 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsboton.h
+	<clsSprite.h>
+
+1542140453 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080699 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1542140452 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1542080701 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsarchivo.h
+	<cstring>
+
+1542080701 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542140452 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542094717 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1542136809 c:\users\usuario\desktop\prog_2\pacmancomeburger\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080937 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstring>
+	<cstdio>
+
+1542084045 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsboton.cpp
+	"clsBoton.h"
+
+1542084045 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsburger.cpp
+	"clsBurger.h"
+
+1542084045 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clscomidas.cpp
+	"clsComidas.h"
+
+1542156283 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542156817 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsguia.cpp
+	"clsGuia.h"
+
+1542090281 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542143804 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542090282 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542084045 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1542136028 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542146344 source:c:\users\usuario\desktop\prog_2\pacmancomeburger\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman fantasma\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542080700 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542080700 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1542135048 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542140452 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080700 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsboton.h
+	<clsSprite.h>
+
+1542140453 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080699 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1542140452 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1542080701 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsarchivo.h
+	<cstring>
+
+1542080701 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542140452 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542094717 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1542136809 c:\users\usuario\desktop\prog_2\el pacman fantasma\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080937 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstring>
+	<cstdio>
+
+1542084045 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsboton.cpp
+	"clsBoton.h"
+
+1542164500 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsburger.cpp
+	"clsBurger.h"
+
+1542084045 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clscomidas.cpp
+	"clsComidas.h"
+
+1542170755 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542170755 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542090282 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542084045 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1542170755 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542164500 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1542164500 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542164500 source:c:\users\usuario\desktop\prog_2\el pacman fantasma\src\clsguia.cpp
+	"clsGuia.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el pacman hambriento\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542299600 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542080702 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1542135050 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080702 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsboton.h
+	<clsSprite.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080700 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1542080702 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsarchivo.h
+	<cstring>
+
+1542080702 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542094718 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1542136810 c:\users\usuario\desktop\prog_2\el pacman hambriento\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080938 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstring>
+	<cstdio>
+
+1542084046 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsboton.cpp
+	"clsBoton.h"
+
+1542164502 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsburger.cpp
+	"clsBurger.h"
+
+1542084046 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clscomidas.cpp
+	"clsComidas.h"
+
+1542333969 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542212106 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsguia.cpp
+	"clsGuia.h"
+
+1542170756 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542090284 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542084046 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1542335867 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542209152 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1542334271 source:c:\users\usuario\desktop\prog_2\el pacman hambriento\src\clsmenu.cpp
+	"clsMenu.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 e:\el pacman hambriento\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clserror.h
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:e:\el pacman hambriento\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:e:\el pacman hambriento\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:e:\el pacman hambriento\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:e:\el pacman hambriento\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 e:\el pacman hambriento\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542299146 source:e:\el pacman hambriento\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542080702 e:\el pacman hambriento\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1542135050 e:\el pacman hambriento\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542140454 e:\el pacman hambriento\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080702 e:\el pacman hambriento\include\clsboton.h
+	<clsSprite.h>
+
+1542140454 e:\el pacman hambriento\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080700 e:\el pacman hambriento\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1542140454 e:\el pacman hambriento\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1542080702 e:\el pacman hambriento\include\clsarchivo.h
+	<cstring>
+
+1542080702 e:\el pacman hambriento\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542140454 e:\el pacman hambriento\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542094718 e:\el pacman hambriento\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1542136810 e:\el pacman hambriento\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080938 source:e:\el pacman hambriento\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstring>
+	<cstdio>
+
+1542084046 source:e:\el pacman hambriento\src\clsboton.cpp
+	"clsBoton.h"
+
+1542164502 source:e:\el pacman hambriento\src\clsburger.cpp
+	"clsBurger.h"
+
+1542084046 source:e:\el pacman hambriento\src\clscomidas.cpp
+	"clsComidas.h"
+
+1542164502 source:e:\el pacman hambriento\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542212106 source:e:\el pacman hambriento\src\clsguia.cpp
+	"clsGuia.h"
+
+1542170756 source:e:\el pacman hambriento\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542295754 source:e:\el pacman hambriento\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542090284 source:e:\el pacman hambriento\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542084046 source:e:\el pacman hambriento\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1542170756 source:e:\el pacman hambriento\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542209152 source:e:\el pacman hambriento\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\desktop\prog_2\el fantasma hambriento\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542299600 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542080702 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1542135050 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080702 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsboton.h
+	<clsSprite.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080700 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1542080702 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsarchivo.h
+	<cstring>
+
+1542080702 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542140454 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542094718 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1542136810 c:\users\usuario\desktop\prog_2\el fantasma hambriento\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080938 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstring>
+	<cstdio>
+
+1542084046 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsboton.cpp
+	"clsBoton.h"
+
+1542164502 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsburger.cpp
+	"clsBurger.h"
+
+1542084046 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clscomidas.cpp
+	"clsComidas.h"
+
+1542489078 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542488389 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsguia.cpp
+	"clsGuia.h"
+
+1542488390 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542488623 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542090284 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542084046 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1542488390 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542487743 source:c:\users\usuario\desktop\prog_2\el fantasma hambriento\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1432327182 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clserror.h
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsdot.h
+	"adnConsts.h"
+
+1432327228 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsevent.h
+	"adnConsts.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clslog.cpp
+	"clsLog.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clslog.h
+	<cstdio>
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1443039972 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clstext.cpp
+	"clsText.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1415818188 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1415818188 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\adn-x\clstimer.h
+	"clsEvent.h"
+
+1542299600 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1542080702 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsmotor.h
+	<clsEvent.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsError.h>
+	<adnConsts.h>
+	<clsPresentacion.h>
+	<clsMenu.h>
+
+1542135050 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clspresentacion.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542140454 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsmenu.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsText.h>
+	<clsBoton.h>
+	<clsGuia.h>
+	<clsJuego.h>
+	<clsPuntaje.h>
+	<clsDespedida.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080702 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsboton.h
+	<clsSprite.h>
+
+1542140454 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsguia.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080700 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsjuego.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsTimer.h>
+	<clsRandom.h>
+	<clsAudio.h>
+	<clsText.h>
+	<clsSoundEffect.h>
+	<clsPuntaje.h>
+	<clsArchivo.h>
+	<clsComidas.h>
+	<clsBurger.h>
+	<clsPacman.h>
+
+1542140454 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clspuntaje.h
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+	<clsArchivo.h>
+
+1542080702 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsarchivo.h
+	<cstring>
+
+1542080702 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clscomidas.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542140454 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsburger.h
+	<clsScreen.h>
+	<clsSprite.h>
+
+1542094718 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clspacman.h
+	<clsScreen.h>
+	<clsSprite.h>
+	<clsEvent.h>
+
+1542136810 c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\include\clsdespedida.h
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<adnConsts.h>
+	<clsError.h>
+	<clsText.h>
+	<clsAudio.h>
+	<clsSoundEffect.h>
+
+1542080938 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clsarchivo.cpp
+	"clsArchivo.h"
+	<cstring>
+	<cstdio>
+
+1542084046 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clsboton.cpp
+	"clsBoton.h"
+
+1542164502 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clsburger.cpp
+	"clsBurger.h"
+
+1542084046 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clscomidas.cpp
+	"clsComidas.h"
+
+1542489078 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clsdespedida.cpp
+	"clsDespedida.h"
+
+1542488390 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clsjuego.cpp
+	"clsJuego.h"
+
+1542488623 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clsmenu.cpp
+	"clsMenu.h"
+
+1542090284 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clsmotor.cpp
+	"clsMotor.h"
+
+1542084046 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clspacman.cpp
+	"clsPacman.h"
+	<clsScreen.h>
+
+1542488390 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clspresentacion.cpp
+	"clsPresentacion.h"
+
+1542487743 source:c:\users\usuario\documents\laboratorio de computación\laboratorio de computación 2\proyectos 2\el fantasma hambriento\src\clspuntaje.cpp
+	"clsPuntaje.h"
+
